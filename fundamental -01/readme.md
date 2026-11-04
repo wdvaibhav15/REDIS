@@ -1,0 +1,1 @@
+#fondamentals of redis
